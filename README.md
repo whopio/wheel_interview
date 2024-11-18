@@ -14,8 +14,12 @@ In this project, you will be building a Rails application that allows users to s
 
 2. **Once the Codespace is ready:**
    - The project will be automatically set up for you.
-   - The database will be created and migrated.
+   - Run `bundle install` to install the dependencies.
 
+3. **Start the Rails server:**
+   - Run `rails server` to start the Rails server. It will run on port 3000.
+
+> You can also run this all on your local machine if you'd like. You just need Rails and Ruby installed. It uses a SQLite database.
 
 ## Instructions
 
