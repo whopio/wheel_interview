@@ -18,6 +18,7 @@ In this project, you will be building a Rails application that allows users to s
 
 3. **Start the Rails server:**
    - Run `rails server` to start the Rails server. It will run on port 3000.
+   -
 
 > You can also run this all on your local machine if you'd like. You just need Rails and Ruby installed. It uses a SQLite database.
 
@@ -29,3 +30,9 @@ Your job is to build a REST API that will be used by the frontend to spin the wh
 ## Resources
 Join this whop for an example at the wheel: https://whop.com/whop-eng-interview/
 
+
+## Requirements
+- Prizes can have different probabilities and limited stock. For example, we might want to give away only one PS5 a day but 10 Chipotle gift cards a day.
+- Users get 1 spin a day, but it possible for the Whop team to give a user more spins if we want.
+- A wheel should have multiple losers on it in order to make it more interesting.
+- The user should see a list of all winners and their recently won prizes.
