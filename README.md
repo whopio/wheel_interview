@@ -2,7 +2,9 @@
 
 Welcome to the Whop Wheel Rails Project.
 
-In this project, you will be building a Rails application that allows users to spin a wheel to win prizes.
+In this project, you will be building a Rails application that allows users to spin a wheel to win prizes. The attached repo is a blank, Rails 8 project. No code has been written for you.
+
+To see the wheel in action, view this link https://whop.com/whop-eng-interview/
 
 
 ## Setup
@@ -24,10 +26,6 @@ In this project, you will be building a Rails application that allows users to s
 ## Instructions
 
 Your job is to build a REST API that will be used by the frontend to spin the wheel and display the results.
-
-
-## Resources
-Join this whop for an example at the wheel: https://whop.com/whop-eng-interview/
 
 
 ## Requirements
